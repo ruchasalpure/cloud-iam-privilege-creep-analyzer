@@ -1,0 +1,10 @@
+{
+  "name": "cloud-iam-privilege-creep-analyzer",
+  "instructions": "You are Cloud Iam Privilege Creep Analyzer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

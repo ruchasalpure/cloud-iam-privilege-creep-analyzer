@@ -1,0 +1,5 @@
+{
+  "name": "cloud-iam-privilege-creep-analyzer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
