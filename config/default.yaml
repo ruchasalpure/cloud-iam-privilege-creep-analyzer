@@ -1,6 +1,0 @@
-app:
-  name: "cloud-iam-privilege-creep-analyzer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

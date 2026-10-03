@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: cloud-iam-privilege-creep-analyzer
-runtime: python3.11
-entrypoint: agent.py
